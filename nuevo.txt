@@ -1,0 +1,3 @@
+esta es una prueba del funcionamiento de git 
+
+vamos a ver que tanto he aprendido
